@@ -11,9 +11,9 @@
 <div align="center">
   
 # 💫 Sobre mí :
-🔭 Actualmente estoy trabajando en un proyecto de formularios para Granjas de Chile
-🌱 Tengo 16 años
-💻 Actualmente estudiando **Desarrollo de Software**
+* 🔭 Actualmente estoy trabajando en **OwleafStudio**
+* 🌱 Tengo 16 años
+* 💻 Actualmente estudiando **Desarrollo de Software**
 
 <hr/>
 
