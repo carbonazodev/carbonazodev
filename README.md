@@ -1,17 +1,20 @@
 
-
-<h3 align="center">¡Hola! Me llamo Pablo</a> 🤠</h3>
-
+<h3 align="center">
+  ¡Hola que tal, bienvenido!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=carbonazodev&color=blue"/> 
+  <a href="https://github.com/yanquisalexander/yanquisalexander"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&pause=1000&color=9146FF&center=true&random=false&width=435&lines=twitch.tv%2FAlexitoo_UY"></a>
 </p>
 
-## : 📖 Sobre mí
-
-* <img src="https://cdn.discordapp.com/emojis/1330625172503527476.gif" width="16"/> Soy desarrollador de mods & plugins de Minecraft
-* 🌱 Tengo 16 años
-* 💻 Actualmente estudiando **Desarrollo de Software**
+---
+<div align="center">
   
+# 💫 Sobre mí :
+🔭 Actualmente estoy trabajando en un proyecto de formularios para Granjas de Chile
+🌱 Tengo 16 años
+💻 Actualmente estudiando **Desarrollo de Software**
+
 <hr/>
 
 ## : 🌱 Lenguajes con los que trabajo
