@@ -55,7 +55,7 @@ Intereses:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=carbonazodev&theme=tokyonight&layout=compact&langs_count=6">
+  <img height="160em" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=carbonazodev&theme=tokyonight&layout=compact&langs_count=6">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonazodev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
