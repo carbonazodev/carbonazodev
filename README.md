@@ -87,7 +87,7 @@ Intereses:
 ## 🎧 Estado actual
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1401008905781379125" />
+  <img src="https://lanyard.cnrad.dev/api/1401008905781379125?borderRadius=25px&idleMessage=Hola" />
 </p>
 
 ---
