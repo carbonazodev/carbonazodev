@@ -15,13 +15,12 @@
 ## 🚀 Sobre mí
 
 ```yaml
-nombre: Pablo
-edad: 16
-rol: Estudiante de Desarrollo de Software
-trabajo_actual: OwleafStudio
-intereses:
+Nombre: Pablo
+Edad: 16
+Rol: Estudiante de Desarrollo de Software
+Intereses:
   - Backend
-  - Mods de Minecraft (Fabric)
+  - Mods de Minecraft (Fabric), (Forge) y (Paper)
   - Desarrollo Web
 ```
 
@@ -30,7 +29,7 @@ intereses:
 ## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python,kotlin" />
 </p>
 
 ---
