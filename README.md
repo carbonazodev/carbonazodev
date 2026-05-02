@@ -1,10 +1,7 @@
+<h3 align="center">¡Hola! Me llamo Pablo</a></h3>
 
-<h3 align="center">
-  ¡Hola que tal, bienvenido!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 <p align="center">
-  <a href="https://github.com/carbonazodev/carbonazodev"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&pause=1000&color=9146FF&center=true&random=false&width=435&lines=github.com%2Fcarbonazodev"></a>
+    <img src="https://komarev.com/ghpvc/?username=carbonazodev&color=green"/> 
 </p>
 
 ---
