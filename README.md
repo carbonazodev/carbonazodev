@@ -1,57 +1,82 @@
-<h1 align="center">👋 ¡Hola! Soy Pablo</h1>
+<h1 align="center">
+  👋 Hola, soy Pablo
+</h1>
 
 <p align="center">
-  💻 Desarrollador en formación | 🚀 Apasionado por la tecnología
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+en+progreso;Amante+del+backend;Java+%7C+Minecraft+Mods+%7C+Web" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carbonazodev&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=carbonazodev&color=00f7ff&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en **OwleafStudio**
-- 🌱 Aprendiendo y mejorando cada día en **Desarrollo de Software**
-- 🎂 Tengo **16 años**
-- ⚡ Interesado en backend, mods de Minecraft y desarrollo general
+```yaml
+nombre: Pablo
+edad: 16
+rol: Estudiante de Desarrollo de Software
+trabajo_actual: OwleafStudio
+intereses:
+  - Backend
+  - Mods de Minecraft (Fabric)
+  - Desarrollo Web
+```
 
 ---
 
-## 🛠️ Tecnologías y Lenguajes
+## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python" />
 </p>
 
 ---
 
-## 📊 Estadísticas (opcional pero recomendado)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carbonazodev&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbonazodev&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carbonazodev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonazodev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carbonazodev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎧 Presencia / Estado
+## 🐍 Actividad
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1401008905781379125" alt="Discord Presence"/>
+  <img src="https://raw.githubusercontent.com/carbonazodev/carbonazodev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧠 Filosofía
+## 🎧 Estado actual
 
-> "Siempre aprendiendo, siempre construyendo."
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1401008905781379125" />
+</p>
 
 ---
+
+## 💭 Mentalidad
+
+<p align="center">
+
+> ⚡ *"No se trata de saberlo todo, sino de aprender más rápido que ayer."*
+
+</p>
+
+---
+
+## 🌐 Contacto (opcional)
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
