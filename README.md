@@ -2,6 +2,23 @@
   👋 Hola, soy Pablo
 </h1>
 
+<a href="https://carbonzdev.me">
+  <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+</a>
+<a href="https://github.com/carbonazodev">
+  <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://discord.com/users/carbonazodev">
+  <img src="https://img.shields.io/badge/Discord-0b0f14?style=for-the-badge&logo=discord&logoColor=8ea1ff" />
+</a>
+<a href="https://modrinth.com/user/carbonazodev">
+  <img src="https://img.shields.io/badge/Modrinth-0b0f14?style=for-the-badge&logo=modrinth&logoColor=1bd96a" />
+</a>
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+en+progreso;Amante+del+backend;Java+%7C+Minecraft+Mods+%7C+Web" />
 </p>
@@ -49,9 +66,8 @@ Intereses:
 
 ## 🐍 Actividad
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carbonazodev/carbonazodev/output/github-contribution-grid-snake.svg" />
-</p>
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image. Colors can [be](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-ocean.svg) [customized](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg).
+
 
 ---
 
@@ -73,7 +89,7 @@ Intereses:
 
 ---
 
-## 🌐 Contacto (opcional)
+## 🌐 Contacto
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white"/></a>
