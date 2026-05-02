@@ -102,10 +102,3 @@ Intereses:
 </p>
 
 ---
-
-## 🌐 Contacto
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
