@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hola, soy Pablo
 </h1>
-
+<p align="center">
 <a href="https://carbonzdev.me">
   <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </a>
@@ -14,6 +14,7 @@
 <a href="https://modrinth.com/user/carbonazodev">
   <img src="https://img.shields.io/badge/Modrinth-0b0f14?style=for-the-badge&logo=modrinth&logoColor=1bd96a" />
 </a>
+</p>
 
 </div>
 
