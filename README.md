@@ -47,7 +47,7 @@ Intereses:
 ## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python,kotlin,tauri,rust" />
 </p>
 
 ---
