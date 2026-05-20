@@ -91,6 +91,8 @@ Intereses:
   <img src="https://lanyard.cnrad.dev/api/1401008905781379125?borderRadius=25px&idleMessage=Hola" />
 </p>
 
+---
+
 <div align="center">
   <a href="https://open.spotify.com/user/31h2rtxlnh4e4ppx7ozeril7ot5i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h2rtxlnh4e4ppx7ozeril7ot5i&count=3&unique=true" alt="Spotify recently played"  />
