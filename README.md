@@ -34,7 +34,7 @@
 
 ```yaml
 Nombre: Pablo
-Edad: 16
+Edad: 17
 Rol: Estudiante de Desarrollo de Software
 Intereses:
   - Backend
